@@ -1,0 +1,21 @@
+﻿  Circular Link.cpp
+  Double Link.cpp
+  Single Link.cpp
+E:\githubCode\Structure-pj\LinkList\no\Double Link.cpp(9,1): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1):
+  参见“OVERFLOW”的前一个定义
+  
+E:\githubCode\Structure-pj\LinkList\no\Double Link.cpp(41,23): error C2440: “=”: 无法从“Status”转换为“DulNode *”
+  E:\githubCode\Structure-pj\LinkList\no\Double Link.cpp(41,23):
+  从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+  
+E:\githubCode\Structure-pj\LinkList\no\Double Link.cpp(55,23): error C2440: “=”: 无法从“Status”转换为“DuLinkList”
+  E:\githubCode\Structure-pj\LinkList\no\Double Link.cpp(55,23):
+  从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+  
+E:\githubCode\Structure-pj\LinkList\no\Single Link.cpp(9,1): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1):
+  参见“OVERFLOW”的前一个定义
+  
+  正在生成代码...
+E:\githubCode\Structure-pj\LinkList\no\Single Link.cpp(123,1): warning C4715: “ListInsert2”: 不是所有的控件路径都返回值
