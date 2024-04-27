@@ -43,6 +43,7 @@ Status Find(SqList L, int i,ElemType e)
 {
 
 	for (i = 0; i < L.length; i++)//遍历
+		if (L.elem < 0) printf("数据查找失败\n");
 	if (L.elem[i] == e) return i + 1;//查找成功
 	return 0;
 }
@@ -67,6 +68,14 @@ Status Dele(SqList& L, int i)
 		L.elem[j - 1] = L.elem[j];//被删元素后的元素前移
 	--L.length;//表长减1
 	return OK;
+}
+//销毁
+Status Destory(SqList& L)
+{
+	assert(L.elem);
+	free(L.elem);
+	L.elem = NULL;
+	L.length = 0;
 }
 
 //一般线性表合并
