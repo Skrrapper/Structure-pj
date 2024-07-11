@@ -1,6 +1,2 @@
 ﻿  ConTest.c
-  Contact.c
-  正在生成代码...
-E:\githubCode\Structure-pj\SqList\Contact\Project1\Contact.c(18,9): warning C4566: 由通用字符名称“\u2F0A”表示的字符不能在当前代码页(936)中表示出来
-E:\githubCode\Structure-pj\SqList\Contact\Project1\Contact.c(61,18): warning C4013: “FindByName”未定义；假设外部返回 int
   Project1.vcxproj -> E:\githubCode\Structure-pj\SqList\Contact\x64\Debug\Project1.exe

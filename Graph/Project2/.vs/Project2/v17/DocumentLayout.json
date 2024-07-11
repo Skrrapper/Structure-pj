@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\githubCode\\Structure-pj\\Graph\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE4F791-2826-47A8-B40A-CEFA420E8B0B}|Project2\\Project2.vcxproj|E:\\githubCode\\Structure-pj\\Graph\\Project2\\Project2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE4F791-2826-47A8-B40A-CEFA420E8B0B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Graph\\Project2\\Project2\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Project2\\\u6E90.cpp",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Graph\\Project2\\Project2\\\u6E90.cpp",
+              "RelativeToolTip": "Project2\\\u6E90.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T09:24:19.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+﻿  LContact.c
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(6,27): warning C4091: “typedef ”: 没有声明变量时忽略“SLTDataType”的左侧
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(10,2): error C2061: 语法错误: 标识符“SLTDataType”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(12,1): error C2059: 语法错误:“}”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(16,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(16,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(16,29): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,48): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,49): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,49): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,50): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(23,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(23,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(23,33): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(24,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(24,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(24,34): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,48): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,49): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,41): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,60): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,61): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,28): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,28): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,47): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,48): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,40): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,45): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(37,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(37,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(37,32): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(40,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(40,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(40,35): error C2059: 语法错误:“)”
+  (编译源文件“LContact.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(15,3): warning C4013: “LTPushBack”未定义；假设外部返回 int
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(38,7): warning C4013: “strcmp”未定义；假设外部返回 int
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(38,14): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(41,9): error C2037: “next”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(36,11): warning C4047: “初始化”:“contact *”与“contact **”的间接级别不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(52,28): warning C4047: “函数”:“contact **”与“contact *”的间接级别不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(52,28): warning C4024: “FindByName”: 形参和实参 1 的类型不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(57,2): warning C4013: “SLTErase”未定义；假设外部返回 int
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(62,27): warning C4028: 形参 1 与声明不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(67,5): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(68,5): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(69,5): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(70,5): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(71,5): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(66,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(66,11):
+  占位符和其参数预计 5 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(66,11):
+  缺失的可变参数 1 为格式字符串“%-10s”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(72,10): error C2037: “next”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(77,27): warning C4028: 形参 1 与声明不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(82,28): warning C4047: “函数”:“contact **”与“contact *”的间接级别不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(82,28): warning C4024: “FindByName”: 形参和实参 1 的类型不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(89,3): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(90,3): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(91,3): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(92,3): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(93,3): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(88,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(88,9):
+  占位符和其参数预计 5 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(88,9):
+  缺失的可变参数 1 为格式字符串“%-10s”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(97,29): warning C4028: 形参 1 与声明不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(101,28): warning C4047: “函数”:“contact **”与“contact *”的间接级别不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(101,28): warning C4024: “FindByName”: 形参和实参 1 的类型不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(114,15): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(114,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(114,9):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(114,9):
+  缺失的可变参数 1 为格式字符串“%s”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(118,15): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(118,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(118,9):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(118,9):
+  缺失的可变参数 1 为格式字符串“%s”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(122,16): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(122,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(122,9):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(122,9):
+  缺失的可变参数 1 为格式字符串“%d”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(126,15): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(126,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(126,9):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(126,9):
+  缺失的可变参数 1 为格式字符串“%s”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(130,15): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(130,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(130,9):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(130,9):
+  缺失的可变参数 1 为格式字符串“%s”所需
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(149,12): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(149,31): error C2037: “data”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(149,43): warning C4022: “fwrite”: 指针与实参 1 不匹配
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(149,46): warning C4047: “函数”:“size_t”与“FILE *”的间接级别不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(149,46): warning C4024: “fwrite”: 形参和实参 2 的类型不同
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(149,3): error C2198: “fwrite”: 用于调用的参数太少
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(150,9): error C2037: “next”的左侧部分指定未定义的结构/联合“SListNode”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\LContact.c(158,2): warning C4013: “SListDesTroy”未定义；假设外部返回 int
+  SList.c
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(6,27): warning C4091: “typedef ”: 没有声明变量时忽略“SLTDataType”的左侧
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(10,2): error C2061: 语法错误: 标识符“SLTDataType”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(12,1): error C2059: 语法错误:“}”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(16,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(16,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(16,29): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,48): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(19,49): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,49): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(20,50): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(23,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(23,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(23,33): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(24,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(24,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(24,34): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,48): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(27,49): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,41): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,60): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(30,61): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,28): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,28): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,47): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(32,48): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,40): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(35,45): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(37,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(37,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(37,32): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(40,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(40,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.h(40,35): error C2059: 语法错误:“)”
+  (编译源文件“SList.c”)
+  
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(2,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(2,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(2,29): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(2,31): error C2054: 在“phead”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(12,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(12,33): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(12,33): error C2061: 语法错误: 标识符“x”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(12,33): error C2059: 语法错误:“;”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(12,34): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(12,36): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(22,1): error C2059: 语法错误:“}”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(43,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(43,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(43,49): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(43,50): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(43,52): error C2054: 在“x”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(51,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(51,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(51,33): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(51,35): error C2054: 在“pphead”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(76,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(76,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(76,34): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(76,36): error C2054: 在“pphead”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(88,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(88,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(88,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(88,48): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(88,49): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(88,51): error C2054: 在“x”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(104,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(104,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(104,41): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(104,60): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(104,61): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(104,63): error C2054: 在“x”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(129,28): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(129,28): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(129,47): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(129,48): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(129,50): error C2054: 在“x”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(139,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(139,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(139,40): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(139,45): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(139,47): error C2054: 在“pos”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(162,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(162,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(162,32): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(162,34): error C2054: 在“pos”之后应输入“(”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(174,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(174,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(174,35): error C2059: 语法错误:“)”
+E:\githubCode\Structure-pj\LinkList\LINK-Contact\LINK-Contact\SList.c(174,37): error C2054: 在“pphead”之后应输入“(”
+  正在生成代码...

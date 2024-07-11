@@ -1,0 +1,10 @@
+﻿  BFtest.cpp
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(58,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(59,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(53,9): warning C4101: “m”: 未引用的局部变量
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(52,6): warning C4101: “pos”: 未引用的局部变量
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(53,15): warning C4101: “k”: 未引用的局部变量
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(53,18): warning C4101: “i”: 未引用的局部变量
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(53,12): warning C4101: “j”: 未引用的局部变量
+E:\githubCode\Structure-pj\BFtest\BFtest\BFtest.cpp(53,6): warning C4101: “n”: 未引用的局部变量
+  BFtest.vcxproj -> E:\githubCode\Structure-pj\BFtest\x64\Debug\BFtest.exe

@@ -1,0 +1,9 @@
+﻿  test.cpp
+AM.obj : error LNK2005: "void __cdecl DestroyUDG(struct Graph &)" (?DestroyUDG@@YAXAEAUGraph@@@Z) 已经在 AL.obj 中定义
+AM.obj : error LNK2005: "int __cdecl FirstAdjVex(struct Graph const &,int)" (?FirstAdjVex@@YAHAEBUGraph@@H@Z) 已经在 AL.obj 中定义
+AM.obj : error LNK2005: "int __cdecl LocateVex(struct Graph const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LocateVex@@YAHAEBUGraph@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 已经在 AL.obj 中定义
+AM.obj : error LNK2005: "int __cdecl NextAdjVex(struct Graph const &,int,int)" (?NextAdjVex@@YAHAEBUGraph@@HH@Z) 已经在 AL.obj 中定义
+AM.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Vertexdata(struct Graph const &,int)" (?Vertexdata@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUGraph@@H@Z) 已经在 AL.obj 中定义
+AM.obj : error LNK2005: main 已经在 AL.obj 中定义
+test.obj : error LNK2005: main 已经在 AL.obj 中定义
+E:\githubCode\Structure-pj\Graph\Project1\x64\Debug\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

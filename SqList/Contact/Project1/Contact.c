@@ -22,6 +22,7 @@ void LoadContact(Contact* con) {
 void ContactInit(Contact* pcon)//初始化
 {
 	SLInit(pcon);
+	LoadContact(pcon);
 }
 
 void ContactDestory(Contact* pcon)//销毁

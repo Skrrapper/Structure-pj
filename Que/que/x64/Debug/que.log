@@ -1,0 +1,6 @@
+﻿  que.cpp
+  Queue.c
+E:\githubCode\Structure-pj\Que\que\Queue.c(81,2): warning C4098: “QSize”:“void”函数返回值
+  test.c
+  正在生成代码...
+  que.vcxproj -> E:\githubCode\Structure-pj\Que\x64\Debug\que.exe

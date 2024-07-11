@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\githubCode\\Structure-pj\\Graph\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2445BAB-7E3A-4DCD-B7EF-082ED31D263E}|Project1\\Project1.vcxproj|E:\\githubCode\\Structure-pj\\Graph\\Project1\\Project1\\AM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2445BAB-7E3A-4DCD-B7EF-082ED31D263E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\AM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2445BAB-7E3A-4DCD-B7EF-082ED31D263E}|Project1\\Project1.vcxproj|E:\\githubCode\\Structure-pj\\Graph\\Project1\\Project1\\AL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2445BAB-7E3A-4DCD-B7EF-082ED31D263E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\AL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AL.cpp",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Graph\\Project1\\Project1\\AL.cpp",
+              "RelativeDocumentMoniker": "Project1\\AL.cpp",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Graph\\Project1\\Project1\\AL.cpp",
+              "RelativeToolTip": "Project1\\AL.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T07:49:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AM.cpp",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Graph\\Project1\\Project1\\AM.cpp",
+              "RelativeDocumentMoniker": "Project1\\AM.cpp",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Graph\\Project1\\Project1\\AM.cpp",
+              "RelativeToolTip": "Project1\\AM.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T07:31:32.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
