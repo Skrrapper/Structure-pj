@@ -76,3 +76,48 @@ STDataType STTop(const ST* ps) {
 
     return ps->a[ps->top - 1];
 }
+
+
+//使用两个栈实现队列的push、pop、peek、empty
+void push(int x,int s1)
+{
+    STPush(&s1, x);
+}
+
+void pop(int s1, int s2)//从队列的开头移除并返回元素
+{
+    if (STEmpty(&s2))//如果栈2为空，那么就将栈1中的元素全部压入栈2中
+    {
+        while (!STEmpty(&s1))//直到栈1中的元素全部压入栈2中
+        {
+            STPush(&s2, STTop(&s1));
+            STPop(&s1);
+        }
+    }
+    STPop(&s2);//此时它的栈顶元素就是队列的队首元素
+}
+
+void peek(int s1, int s2)// 返回队列开头的元素
+{
+    if (STEmpty(&s2))//如果栈2为空，那么就将栈1中的元素全部压入栈2中
+    {
+        while (!STEmpty(&s1))//直到栈1中的元素全部压入栈2中
+        {
+            STPush(&s2, STTop(&s1));
+            STPop(&s1);
+        }
+    }
+    printf("%d\n", STTop(&s2));//此时它的栈顶元素就是队列的队首元素
+}
+
+bool empty(int s1, int s2)//如果队列为u空返回true，否则返回false
+{
+	if (STEmpty(&s1) && STEmpty(&s2))
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}

@@ -1,8 +1,11 @@
-﻿  conversionEX.cpp
-  Shunxu.cpp
-  Stack.cpp
-  正在生成代码...
-  StackB.c
+﻿  StackB.c
   test.c
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(84,12): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(89,13): warning C4133: “函数”: 从“int *”到“const ST *”的类型不兼容
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(91,18): warning C4133: “函数”: 从“int *”到“const ST *”的类型不兼容
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(93,11): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(93,22): warning C4133: “函数”: 从“int *”到“const ST *”的类型不兼容
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(94,10): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
+E:\githubCode\Structure-pj\Stack\Stack\StackB.c(97,8): warning C4133: “函数”: 从“int *”到“ST *”的类型不兼容
   正在生成代码...
   Stack.vcxproj -> E:\githubCode\Structure-pj\Stack\x64\Debug\Stack.exe

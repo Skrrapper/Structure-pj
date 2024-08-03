@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="heap.c" />
     <ClCompile Include="test.c" />
+    <ClCompile Include="TopK.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="heap.h" />

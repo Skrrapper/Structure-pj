@@ -96,6 +96,20 @@ void HeapPop(HP* php)
     php->size--;
 }
 
+////冒泡排序
+//    void HeapPop(HP* php)
+//{
+//	assert(php);
+//	assert(!HeapEmpty(php));
+//
+//	//删除数据
+//	Swap(&php->a[0], &php->size - 1);
+//	php->size--;
+//
+//	//向下调整
+//	AdjustDown(php->a, php->size, 0);
+//}
+
 HPDataType HeapTop(HP* php)
 {
     assert(php);
@@ -111,4 +125,181 @@ int HeapSize(HP* php)
 {
     assert(php);
     return php->size;
+}
+
+void HeapSort(int* a, int n)
+{
+    /*for (int i = 1; i < n; i++)
+    {
+        AdjustUp(a, i);
+    }*/
+    for (int i = (n - 1 - 1) / 2; i >= 0; i++)
+    {
+        AdjustDown(a, n, i);
+    }
+
+    int end = n-1;
+    while (end > 0)
+    {
+        Swap(&a[end], &a[0]);
+        AdjustDown(a, end, 0);
+        end--;
+    }
+
+}
+
+void HeapDestory(HP* php)
+{
+    assert(php);
+
+    free(php->a);
+    php->a = NULL;
+    php->capacity = php->capacity = 0;
+
+}
+
+//topk问题
+void GetTopK(int* a, int n, int k)
+{
+	HP hp;
+	HeapInit(&hp);
+	for (int i = 0; i < k; i++)
+	{
+		HeapPush(&hp, a[i]);
+	}
+
+	for (int i = k; i < n; i++)
+	{
+		if (a[i] < HeapTop(&hp))
+		{
+			HeapPop(&hp);
+			HeapPush(&hp, a[i]);
+		}
+	}
+
+	while (!HeapEmpty(&hp))
+	{
+		printf("%d ", HeapTop(&hp));
+		HeapPop(&hp);
+	}
+	printf("\n");
+	HeapDestory(&hp);
+}
+
+
+//以下是topk问题的多种解法
+void TopK_Heap(int* a, int n, int k)
+{
+    HP hp;
+    HeapInit(&hp);
+    for (int i = 0; i < k; i++)//先将k个元素放入一个小顶堆中，方便后续用于比较元素的大小
+    {
+        HeapPush(&hp, a[i]);
+    }
+    for (int i = k; i < n; i++)//从第k+1个元素开始，与堆顶元素进行比较，完成TopK问题的主要流程
+    {
+        if (a[i] > HeapTop(&hp))//当前元素比堆顶元素大的时候，将堆顶元素替换为这个元素
+        {
+            HeapTop(&hp);//首先弹出堆顶元素
+            HeapPush(&hp, a[i]);//再将当前元素放入堆中
+        }
+    }
+    while (!HeapEmpty(&hp))//当循环到结束时，这时堆中的元素就是所求的k个元素，将它们先打印再弹出即可、
+    {
+        printf("%d ", HeapTop(&hp));//依次打印元素
+        HeapPop(&hp);//弹出元素
+    }
+    //完成一切工作之后，不要忘了销毁这个堆
+    HeapDestory(&hp);
+    
+}
+//堆的分类后的解法
+void TopK_Sort(int* a, int n, int k)//
+{
+	HeapSort(a, n);
+	for (int i = n - 1; i >= n - k; i--)
+	{
+		printf("%d ", a[i]);
+	}
+	printf("\n");
+}
+
+//冒泡排序的解法
+void TopK_BubSort(int* a, int n, int k)
+{
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - 1 - i; j++)//冒泡排序的核心代码
+        {
+            int tmp = 0;
+            if (a[j] > a[j + 1])//进行冒泡排序
+            {
+                tmp = a[j];
+                a[j] = a[j + 1];
+                a[j + 1] = tmp;
+            }
+        }
+    }
+    for (int i = n - 1; i >= n - k; i--)//返回排序完之后的k个元素
+    {
+        printf("%d ", a[i]);
+    }
+}
+
+
+
+//快速排序的解法
+void TopK_QuickSort(int* a, int n, int k)
+{
+	QuickSort(a, 0, n - 1, k);
+	for (int i = n - 1; i >= n - k; i--)
+	{
+		printf("%d ", a[i]);
+	}
+}
+
+void QuickSort(int* a, int left, int right, int k)
+{
+	if (left >= right)//当左边大于右边的时候，直接返回即可
+	{
+		return;
+	}
+	int div = PartSort(a, left, right);//进行快排
+	if (div == k)//当div等于k的时候，直接返回
+	{
+		return;
+	}
+	else if (div < k)//当div小于k的时候，继续递归
+	{
+		QuickSort(a, div + 1, right, k);
+	}
+	else//当div大于k的时候，继续递归
+	{
+		QuickSort(a, left, div - 1, k);
+	}
+}
+
+int PartSort(int *a,int left,int right)
+{
+    //设置左右两个指针，分别指向数组的第一个元素和最后一个元素
+	int begin = left;
+	int end = right;
+	int tmp = a[right];//我们选择数组最后一个元素作为基准值
+	while (begin < end)//快排的核心代码（具体的算法思想自行搜索）
+	{
+		while (begin < end && a[begin] >= tmp)
+		{
+			begin++;
+		}
+		while (begin < end && a[end] <= tmp)
+		{
+			end--;
+		}
+		if (begin < end)
+		{
+			Swap(&a[begin], &a[end]);
+		}
+	}
+	Swap(&a[begin], &a[right]);
+	return begin;
 }

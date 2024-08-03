@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\githubCode\\Structure-pj\\Tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECD493D2-045F-48C3-A5E5-6DFA7647D7B7}|Tree\\Tree.vcxproj|E:\\githubCode\\Structure-pj\\Tree\\Tree\\InOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECD493D2-045F-48C3-A5E5-6DFA7647D7B7}|Tree\\Tree.vcxproj|solutionrelative:Tree\\InOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\githubCode\\Structure-pj\\Tree\\Tree\\PostOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tree\\PostOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD493D2-045F-48C3-A5E5-6DFA7647D7B7}|Tree\\Tree.vcxproj|E:\\githubCode\\Structure-pj\\Tree\\Tree\\PostOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECD493D2-045F-48C3-A5E5-6DFA7647D7B7}|Tree\\Tree.vcxproj|solutionrelative:Tree\\PostOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tree\\Tree.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tree\\Tree.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\githubCode\\Structure-pj\\Tree\\Tree\\InOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tree\\InOT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tree\\Tree.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +30,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tree.vcxproj.filters",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj.filters",
+              "RelativeDocumentMoniker": "Tree\\Tree.vcxproj.filters",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj.filters",
+              "RelativeToolTip": "Tree\\Tree.vcxproj.filters",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T07:28:18.919Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Tree.vcxproj.user",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj.user",
+              "RelativeDocumentMoniker": "Tree\\Tree.vcxproj.user",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj.user",
+              "RelativeToolTip": "Tree\\Tree.vcxproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-08-01T07:28:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tree.vcxproj",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj",
+              "RelativeDocumentMoniker": "Tree\\Tree.vcxproj",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\Tree.vcxproj",
+              "RelativeToolTip": "Tree\\Tree.vcxproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2024-08-01T07:28:03.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PostOT.cpp",
               "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\PostOT.cpp",
               "RelativeDocumentMoniker": "Tree\\PostOT.cpp",
               "ToolTip": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\PostOT.cpp",
               "RelativeToolTip": "Tree\\PostOT.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACMAAAAkAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-08T07:53:56.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "InOT.cpp",
               "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\InOT.cpp",
               "RelativeDocumentMoniker": "Tree\\InOT.cpp",
               "ToolTip": "E:\\githubCode\\Structure-pj\\Tree\\Tree\\InOT.cpp",
               "RelativeToolTip": "Tree\\InOT.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-08T06:38:56.813Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
