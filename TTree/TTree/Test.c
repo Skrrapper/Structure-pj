@@ -7,6 +7,7 @@
 #include <stdbool.h>
 #include "Queue.h"
 
+//二叉树的定义
 typedef int BTDataType;
 typedef struct BinaryTreeNode
 {
@@ -15,6 +16,7 @@ typedef struct BinaryTreeNode
 	struct BinaryTreeNode* right;
 }BTNode;
 
+//二叉树的创建
 BTNode* BuyNode(BTDataType x)
 {
 	BTNode* node = (BTNode*)malloc(sizeof(BTNode));
@@ -56,7 +58,6 @@ int TreeHeight1(BTNode* root)
 }
 
 
-
 int TreeSize(BTNode* root)
 {
 	//使用递归思想
@@ -66,7 +67,7 @@ int TreeSize(BTNode* root)
 		+ 1;//1是指根节点
 }
 
-
+//创建二叉树
 BTNode* CreateTree()
 {
 	BTNode* node1 = BuyNode(1);
