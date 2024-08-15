@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\githubCode\\Structure-pj\\Sort\\QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF38D-9E92-4E78-9D4F-2BAD07DF4874}|QuickSort\\QuickSort.vcxproj|E:\\githubCode\\Structure-pj\\Sort\\QuickSort\\QuickSort\\Qucik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEACF38D-9E92-4E78-9D4F-2BAD07DF4874}|QuickSort\\QuickSort.vcxproj|solutionrelative:QuickSort\\Qucik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Qucik.c",
+              "DocumentMoniker": "E:\\githubCode\\Structure-pj\\Sort\\QuickSort\\QuickSort\\Qucik.c",
+              "RelativeDocumentMoniker": "QuickSort\\Qucik.c",
+              "ToolTip": "E:\\githubCode\\Structure-pj\\Sort\\QuickSort\\QuickSort\\Qucik.c",
+              "RelativeToolTip": "QuickSort\\Qucik.c",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAiwL4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-14T07:18:10.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

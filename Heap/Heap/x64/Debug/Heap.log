@@ -1,2 +1,6 @@
 ﻿  heap.c
-  Heap.vcxproj -> E:\githubCode\Structure-pj\Heap\x64\Debug\Heap.exe
+E:\githubCode\Structure-pj\Heap\Heap\heap.c(254,2): warning C4013: “QuickSort”未定义；假设外部返回 int
+E:\githubCode\Structure-pj\Heap\Heap\heap.c(261,6): error C2371: “QuickSort”: 重定义；不同的基类型
+E:\githubCode\Structure-pj\Heap\Heap\heap.c(267,12): warning C4013: “PartSort”未定义；假设外部返回 int
+  TopK.c
+  正在生成代码...
