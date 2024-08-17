@@ -2,6 +2,9 @@
 //快速排序
 #include <stdio.h>
 #include <stdlib.h>
+#include "StackB.c"
+
+
 void QuickSort1(int* a, int left, int right);
 //交换函数
 void Swap(int* a, int* b)
@@ -68,7 +71,7 @@ void QuickSort1(int* a, int left, int right)
 }
 
 //快排单趟
-void PartSort1(int* a, int left, int right)
+int PartSort1(int* a, int left, int right)
 {
 	if (left >= right)
 		return;
@@ -194,4 +197,99 @@ void QuickSort3(int* a, int left, int right)
 
 	return key;
     
+}
+
+//前后指针单趟
+int PartSort3(int* a, int left, int right)
+{
+	int mid = GetMid(a, left, right);
+	if (mid != left)
+		Swap(&a[left], &a[mid]);
+	int key = left;
+
+	int prev = left;
+	int cur = left + 1;
+	while (cur <= right)
+	{
+		if (a[cur] < a[key] && ++prev != cur)
+		{
+			Swap(&a[cur], &a[prev]);
+		}
+		cur++;
+
+	}
+	Swap(&a[prev], &a[key]);
+	key = prev;
+
+	return key;
+
+}
+
+//插入
+void InsertSort(int* a, int n)
+{
+	int i = 0;
+	for (i = 1; i < n; i++)
+	{
+		int key = a[i];
+		int end = i - 1;
+		while (end >= 0 && a[end] > key)
+		{
+			a[end + 1] = a[end];
+			end--;
+		}
+		a[end + 1] = key;
+	}
+}
+
+//小区间优化
+void QuickSort4(int* a, int left, int right)
+{
+	if (left >= right)
+		return;
+
+	//小区间直接使用插入排序
+	if ((right - left + 1) > 10)
+	{
+		int key = PartSort3(a, left, right);
+		QuickSort3(a, left, key - 1);
+		QuickSort3(a, key + 1, right);
+	}
+	else
+	{
+		//否则使用插入排序
+		InsertSort(a + left, right - left + 1);
+	}
+}
+
+//非递归实现快排
+void QuickSortNoR(int* a, int left, int right)
+{
+	ST s;
+	STInit(&s);
+	STPush(&s, left);//先将左右边界入栈
+	STPush(&s, right);
+
+	while (STEmpty(&s))
+	{
+		int begin = STTop(&s);
+		STPop(&s);
+		int end = STTop(&s);
+		STPop(&s);
+
+		int key = PartSort3(a, begin, end);
+		
+		if (key + 1 < end)
+		{
+			STPush(&s, end);
+			STPush(&s, key + 1);
+		}
+		if (begin < key-1)
+		{
+			STPush(&s, key-1);
+			STPush(&s, begin);
+		}
+	}
+
+	STDestroy(&s);
 }
