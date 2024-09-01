@@ -68,17 +68,17 @@ void AdjustDown(HPDataType* a, int n,int parent)
     while (child < n)
     {
         //选择左右孩子中大的那一个
-        if (child+1 < n && a[child+1] > a[child])
+        if (child+1 < n && a[child+1] > a[child])//如果右孩子存在并且右孩子大于左孩子
         {
             ++child;
         }
-        if (a[child] > a[parent])
+        if (a[child] > a[parent])//如果孩子大于父亲
         {
             Swap(&a[child] , &a[parent]);
             parent = child;
             child = parent * 2 + 1;
         }
-        else
+        else//如果孩子小于父亲
         {
             break;
         }
@@ -133,13 +133,13 @@ void HeapSort(int* a, int n)
     {
         AdjustUp(a, i);
     }*/
-    for (int i = (n - 1 - 1) / 2; i >= 0; i++)
+    for (int i = (n - 1 - 1) / 2; i >= 0; i++)//从最后一个非叶子节点开始调整
     {
         AdjustDown(a, n, i);
     }
 
     int end = n-1;
-    while (end > 0)
+    while (end > 0)//每次将堆顶元素与最后一个元素交换，然后调整堆
     {
         Swap(&a[end], &a[0]);
         AdjustDown(a, end, 0);

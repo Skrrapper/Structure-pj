@@ -272,13 +272,14 @@ void QuickSortNoR(int* a, int left, int right)
 
 	while (STEmpty(&s))
 	{
+		//取出左右边界
 		int begin = STTop(&s);
 		STPop(&s);
 		int end = STTop(&s);
 		STPop(&s);
-
+		//使用一次单趟的快排得到第一次的基准值
 		int key = PartSort3(a, begin, end);
-		
+		//将基准值的左右边界入栈
 		if (key + 1 < end)
 		{
 			STPush(&s, end);

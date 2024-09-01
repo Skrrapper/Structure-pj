@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "SelectSort\\Select.c",
               "ToolTip": "E:\\githubCode\\Structure-pj\\Sort\\SelectSort\\SelectSort\\Select.c",
               "RelativeToolTip": "SelectSort\\Select.c",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-06T09:51:12.636Z",
               "EditorCaption": ""
